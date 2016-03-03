@@ -3,7 +3,7 @@ title: 老虎的博客
 SEOTitle: 老虎的博客 | Tiger Blog
 header-img: img/home-bg.jpg
 email: lianghaihu.dev@gmail.com
-description: "写代码的手艺人, 希望能用缤纷的代码，扰乱人间"
+description: "写代码的手艺人，希望能用缤纷的代码，扰乱人间"
 keyword: ""
 url: "http://uiue.net"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -57,7 +57,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写代码的手艺人, 希望能用缤纷的代码，扰乱人间"
+sidebar-about-description: "写代码的手艺人，希望能用缤纷的代码，扰乱人间"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
