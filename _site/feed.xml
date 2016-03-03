@@ -5,15 +5,13 @@
     <description></description>
     <link>http://uiue.net/</link>
     <atom:link href="http://uiue.net/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 03 Mar 2016 16:57:10 +0800</pubDate>
-    <lastBuildDate>Thu, 03 Mar 2016 16:57:10 +0800</lastBuildDate>
+    <pubDate>Thu, 03 Mar 2016 17:02:47 +0800</pubDate>
+    <lastBuildDate>Thu, 03 Mar 2016 17:02:47 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>写作的地方</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;正文&lt;/h2&gt;
-
-&lt;p&gt;作为技术人的我，总算有欲望在Github安了个家，以前的wordpress写作太麻烦了，排版也不方便弄，总是会有各种各样的细节会你让你分神分心，比如主机、域名、主题，今天换这个主题，明天换那个主题，搞的想写些东西，折腾了半天，最后写作的欲望早已消弭殆尽，兴趣索然。
+        <description>&lt;p&gt;作为技术人的我，总算有欲望在Github安了个家，以前的wordpress写作太麻烦了，排版也不方便弄，总是会有各种各样的细节会你让你分神分心，比如主机、域名、主题，今天换这个主题，明天换那个主题，搞的想写些东西，折腾了半天，最后写作的欲望早已消弭殆尽，兴趣索然。
 2016，籍由于Github和Jekyll，总算有个地方可以好好的静下心写点东西了，放在Github上，也不怕会有数据会丢失之类的问题。&lt;/p&gt;
 
 </description>
